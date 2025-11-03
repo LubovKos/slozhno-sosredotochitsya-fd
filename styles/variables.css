@@ -16,6 +16,6 @@
   --background-image: url('../images/cover-image-dark.png');
   --rec-visibility: visible;
   
-  --text-font: 'IBM Plex mono', monospace;
+  --text-font: 'IBM Plex mono';
   --text-size: 18px;
 }
